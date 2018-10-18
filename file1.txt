@@ -1,2 +1,3 @@
-Some file
+Some file. And a change!
 Added line
+Third line made on master!
