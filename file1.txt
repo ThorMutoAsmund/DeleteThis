@@ -1,4 +1,6 @@
-Some file
+Some file. And a change!
 Added line
 Merge conflict line!
 I also conflict!
+Third line made on master!
+
