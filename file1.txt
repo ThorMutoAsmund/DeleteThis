@@ -3,4 +3,4 @@ Added line
 Merge conflict line!
 I also conflict!
 Third line made on master!
-
+This creates no conflict!
