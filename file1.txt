@@ -1,2 +1,4 @@
 Some file
 Added line
+Merge conflict line!
+I also conflict!
