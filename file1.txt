@@ -1,3 +1,4 @@
+YO!
 Some file. And a change!
 Added line
 Merge conflict line!
